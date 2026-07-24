@@ -1,1 +1,17 @@
-{}
+{
+  "pending_long": false,
+  "pending_short": false,
+  "pending_start": null,
+  "in_long": false,
+  "in_short": false,
+  "entry_price": null,
+  "sl": null,
+  "tp1": null,
+  "tp2": null,
+  "tp3": null,
+  "tp1_hit": false,
+  "trail_stop": null,
+  "tp1_sent": false,
+  "tp2_sent": false,
+  "tp3_sent": false
+}

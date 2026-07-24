@@ -11,7 +11,7 @@ import yfinance as yf
 # ============================================================
 # CONFIGURATION
 # ============================================================
-TICKER = "XAUUSD=X"
+TICKER = "GC=F"
 MTF_TICKER = TICKER
 FAST_LEN, SLOW_LEN = 9, 21
 TREND_LEN = 200
